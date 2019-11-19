@@ -1,0 +1,2 @@
+Buy number: 1	at: 27.00	time: 2018-10-11 08:30:00	Amount: 10000
+Buy Number: 2	at: 9.30	time: 2019-09-03 11:30:00	Amount: 20000	percent: -65.56
